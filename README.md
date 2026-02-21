@@ -16,7 +16,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Mid-Level Backend Developer** at **NTT DATA Business Solutions** in Istanbul, with 2+ years of hands-on experience in enterprise software development. I graduated from Computer Engineering in 2023 and have been building scalable, production-grade systems ever since.
+I'm a **Mid-Level Software Engineer** at **NTT DATA Business Solutions** in Istanbul, with 2+ years of hands-on experience in enterprise software development. I graduated from Computer Engineering in 2023 and have been building scalable, production-grade systems ever since.
 
 My journey bridges **academic AI research** and **enterprise backend engineering** — I've published papers on sentiment analysis and medical imaging using deep learning, and now I apply that AI foundation to build intelligent enterprise applications powered by Azure OpenAI, RAG pipelines, and LLM orchestration.
 
