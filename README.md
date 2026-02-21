@@ -8,7 +8,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xhyazgan)
 [![Azure](https://img.shields.io/badge/AZ--900_Certified-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](#certifications--achievements)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3584E4&center=true&vCenter=true&random=false&width=600&lines=Building+Enterprise+AI+Solutions+%F0%9F%A4%96;.NET+%7C+Java+%7C+Python+%7C+Go+Backend+Dev+%F0%9F%92%BB;Azure+Cloud+%26+Microservices+Architect+%E2%98%81%EF%B8%8F;From+Istanbul+with+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3584E4&center=true&vCenter=true&random=false&width=600&lines=Building+Enterprise+AI+Solutions+%F0%9F%A4%96;.NET+%7C+Java+%7C+Python+%F0%9F%92%BB;Azure+Cloud+%26+Microservices+Architect+%E2%98%81%EF%B8%8F;From+Istanbul+with+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
 
 </div>
 
