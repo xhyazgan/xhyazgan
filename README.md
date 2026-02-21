@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Harun Yazgan
 
-### Backend Developer · AI Enthusiast · Cloud Engineer
+### Software Engineer · AI Enthusiast · DevOps Practitioner
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harun-yazgan/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xhyazgan)
