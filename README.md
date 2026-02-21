@@ -8,7 +8,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xhyazgan)
 [![Azure](https://img.shields.io/badge/AZ--900_Certified-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](#certifications--achievements)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3584E4&center=true&vCenter=true&random=false&width=600&lines=Building+Enterprise+AI+Solutions+%F0%9F%A4%96;.NET+%7C+Java+%7C+Python+%F0%9F%92%BB;Azure+Cloud+%26+Microservices+Architect+%E2%98%81%EF%B8%8F;From+Istanbul+with+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3584E4&center=true&vCenter=true&random=false&width=600&lines=Building+Enterprise+AI+Solutions+%F0%9F%A4%96;.NET+%7C+Java+%7C+Python+%F0%9F%92%BB;Azure+Cloud+%26+Microservices+Architect+%E2%98%81%EF%B8%8F;" alt="Typing SVG" />
 
 </div>
 
@@ -38,7 +38,6 @@ When I'm not coding, you'll find me 🤿 diving (CMAS 1⭐ certified), 🎸 play
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![.NET Aspire](https://img.shields.io/badge/.NET_Aspire-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### AI & Machine Learning
 ![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -59,9 +58,9 @@ When I'm not coding, you'll find me 🤿 diving (CMAS 1⭐ certified), 🎸 play
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Tools & Platforms
+![Aspire](https://img.shields.io/badge/.NET_Aspire-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
