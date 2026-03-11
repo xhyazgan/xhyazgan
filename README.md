@@ -108,19 +108,6 @@ My journey into AI started during university and continues to shape my professio
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=xhyazgan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3584E4&icon_color=3584E4&text_color=C9D1D9" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xhyazgan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3584E4&text_color=C9D1D9" height="170" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=xhyazgan&theme=tokyonight&hide_border=true&background=0D1117&ring=3584E4&fire=3584E4&currStreakLabel=3584E4" />
-
-</div>
-
----
-
 ## 🌍 Let's Connect
 
 <div align="center">
