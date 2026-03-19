@@ -163,14 +163,6 @@ Outside of code: 🤿 CMAS 1★ diver · 🎸 guitarist · 🍳 home cook · �
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=xhyazgan&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%" />
-
-</div>
-
----
-
-<div align="center">
-
 #### 💬 Happy to chat about backend dev, AI integrations, Azure, or anything tech-related.
 
 📍 **Istanbul, Turkey** 🇹🇷
