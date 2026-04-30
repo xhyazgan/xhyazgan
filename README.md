@@ -29,7 +29,7 @@
 
 ### `> whoami`
 
-Mid-Level Backend Developer at **NTT DATA Business Solutions** — Istanbul, with 2+ years of experience. I work mostly with **.NET/C#**, **Java (Spring Boot)**, and **Python (FastAPI)**, building backend services and integrating AI capabilities into enterprise projects.
+Mid-Level Backend Developer at **NTT DATA Business Solutions** — Istanbul. I work mostly with **.NET/C#**, **Java (Spring Boot)**, and **Python (FastAPI)**, building backend services and integrating AI capabilities into enterprise projects.
 
 I graduated from Computer Engineering in 2023 and started my career with a solid foundation in AI/ML research (published two papers on deep learning). Now I'm applying that knowledge to build things like RAG-based chatbot systems, multi-tenant SaaS platforms, and cloud-native services on Azure.
 
